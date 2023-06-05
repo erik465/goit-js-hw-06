@@ -13,5 +13,6 @@ loginForm.addEventListener("submit", function(e) {
     
     }
     console.log(userObj)
+    loginForm.reset()
 })
 
